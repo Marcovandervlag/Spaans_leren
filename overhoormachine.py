@@ -26,6 +26,9 @@ def get_category():
         print("7. Colors")
         print("8. Weather")
         print("9. objects")
+        print("10. Days")
+        print("11. Months")
+        print("12. Vervoeging")
         choice = input()
         if choice == '1':
             return 'Korfball'
@@ -45,6 +48,12 @@ def get_category():
             return 'Weather'
         elif choice == '9':
             return 'Objects'
+        elif choice == '10':
+            return 'Days'
+        elif choice == '11':
+            return 'Months'
+        elif choice == '12':
+            return 'vervoeging'
         else:
             print("Invalid choice, please try again.")
 #Makes all the words random. So there is (Almost) never the same quiz.
