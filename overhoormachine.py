@@ -1,7 +1,7 @@
 import random
 
 def load_words(category):
-    with open('.\Spaans_leren\spanish_words.txt', 'r', encoding='utf-8') as f:
+    with open('.\spanish_words.txt', 'r', encoding='utf-8') as f:
         words = [line.strip().split(',') for line in f.readlines()]
     if category:
         words = [w for w in words if w[2] == category]
