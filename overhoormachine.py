@@ -1,5 +1,10 @@
 import random
 
+#This function will read the .txt file with the words in it. The file is build up like this:
+# english word, spanish word,category
+#For example:
+# cheese,queso,food
+#After reading it will sort out the category and will return the words that are in that specific category.
 def load_words(category):
     with open('.\spanish_words.txt', 'r', encoding='utf-8') as f:
         words = [line.strip().split(',') for line in f.readlines()]
@@ -7,6 +12,8 @@ def load_words(category):
         words = [w for w in words if w[2] == category]
     return words
 
+#This function is the menu option you will get after starting the program.
+#It will let you choose between the categories given in the list below.
 def get_category():
     while True:
         print("Select a category:")
@@ -40,15 +47,18 @@ def get_category():
             return 'Objects'
         else:
             print("Invalid choice, please try again.")
-
+#Makes all the words random. So there is (Almost) never the same quiz.
 def get_word(words):
     return random.choice(words)
 
+#This function will get the word of the translation and ask you what is the translation off it
 def translate(word):
     english_word, spanish_word, category = word
     guess = input(f"What is the Spanish word for {english_word}? ")
     return guess.lower() == spanish_word.lower()
 
+#This function will start de quiz/game and will gather all the correct answers and 
+#all the answers that you filled in incorrect.
 def play_game(category=None):
     words = load_words(category)
     correct = 0
@@ -65,6 +75,7 @@ def play_game(category=None):
             break
     print(f"Game over! You scored {correct} out of {total}.")
 
+#This will start the whole program.
 if __name__ == '__main__':
     category = get_category()
     play_game(category)
