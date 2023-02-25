@@ -1,0 +1,89 @@
+apple,manzana,Food
+banana,plátano,Food
+carrot,zanahoria,Food
+cheese,queso,Food
+chicken,pollo,Food
+coffee,café,Food
+egg,huevo,Food
+fish,pez,Food
+orange,naranja,Food
+rice,arroz,Food
+beer,cerveza,Drink
+coca-cola,coca-cola,Drink
+lemonade,limonada,Drink
+milk,leche,Drink
+orange juice,jugo de naranja,Drink
+red wine,vino tinto,Drink
+soda,gaseosa,Drink
+tea,té,Drink
+water,agua,Drink
+whiskey,whisky,Drink
+book,libro,Hobbies
+camera,cámara,Hobbies
+dancing,baile,Hobbies
+drawing,dibujo,Hobbies
+fishing,pesca,Hobbies
+gardening,jardinería,Hobbies
+knitting,tejer,Hobbies
+music,música,Hobbies
+painting,pintura,Hobbies
+photography,fotografía,Hobbies
+good morning,buenos días,Greetings
+good night,buenas noches,Greetings
+hello,hola,Greetings
+how are you?,¿cómo estás?,Greetings
+nice to meet you,encantado de conocerte,Greetings
+please,por favor,Greetings
+thank you,gracias,Greetings
+welcome,bienvenido,Greetings
+what's up?,¿qué tal?,Greetings
+goodbye,adiós,Greetings
+beautiful,hermoso,Looks
+fat,gordo,Looks
+handsome,guapo,Looks
+skinny,flaco,Looks
+ugly,feo,Looks
+tall,alto,Looks
+short,bajo,Looks
+old,viejo,Looks
+young,joven,Looks
+pretty,bonito,Looks
+black,negro,Colors
+blue,azul,Colors
+brown,marrón,Colors
+green,verde,Colors
+orange,naranja,Colors
+pink,rosa,Colors
+purple,morado,Colors
+red,rojo,Colors
+white,blanco,Colors
+yellow,amarillo,Colors
+cloudy,nublado,Weather
+cold,frío,Weather
+foggy,nebuloso,Weather
+hot,caluroso,Weather
+rainy,lluvioso,Weather
+snowy,nevado,Weather
+stormy,tormentoso,Weather
+sunny,soleado,Weather
+windy,ventoso,Weather
+umbrella,paraguas,Objects
+car,coche,Objects
+chair,silla,Objects
+computer,ordenador,Objects
+house,casa,Objects
+key,llave,Objects
+phone,teléfono,Objects
+shoes,zapatos,Objects
+table,mesa,Objects
+watch,reloj,Objects
+ball,balón,Korfball
+referee,arbitro,Korfball
+to throw,lanzar,Korfball
+to score a goal,marcar un gol,Korfball
+attacker,atacante,Korfball
+defender,defensor,Korfball
+to pass,pasar,Korfball
+pivot,pivot,Korfball
+position,posición,Korfball
+shot at the basket,tiro al aro,Korfball
