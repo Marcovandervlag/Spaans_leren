@@ -1093,5 +1093,111 @@
         "spanish": "cien",
         "english": "one hundred",
         "category": "numbers"
+    },
+    ,
+    {
+        "spanish": "cero",
+        "english": "zero",
+        "category": "number"
+    },
+    {
+        "spanish": "uno",
+        "english": "one",
+        "category": "number"
+    },
+    {
+        "spanish": "dos",
+        "english": "two",
+        "category": "number"
+    },
+    {
+        "spanish": "tres",
+        "english": "three",
+        "category": "number"
+    },
+    {
+        "spanish": "cuatro",
+        "english": "four",
+        "category": "number"
+    },
+    {
+        "spanish": "cinco",
+        "english": "five",
+        "category": "number"
+    },
+    {
+        "spanish": "seis",
+        "english": "six",
+        "category": "number"
+    },
+    {
+        "spanish": "siete",
+        "english": "seven",
+        "category": "number"
+    },
+    {
+        "spanish": "ocho",
+        "english": "eight",
+        "category": "number"
+    },
+    {
+        "spanish": "nueve",
+        "english": "nine",
+        "category": "number"
+    },
+    {
+        "spanish": "diez",
+        "english": "ten",
+        "category": "number"
+    },
+    {
+        "spanish": "once",
+        "english": "eleven",
+        "category": "number"
+    },
+    {
+        "spanish": "doce",
+        "english": "twelve",
+        "category": "number"
+    },
+    {
+        "spanish": "trece",
+        "english": "thirteen",
+        "category": "number"
+    },
+    {
+        "spanish": "catorce",
+        "english": "fourteen",
+        "category": "number"
+    },
+    {
+        "spanish": "quince",
+        "english": "fifteen",
+        "category": "number"
+    },
+    {
+        "spanish": "dieciséis",
+        "english": "sixteen",
+        "category": "number"
+    },
+    {
+        "spanish": "diecisiete",
+        "english": "seventeen",
+        "category": "number"
+    },
+    {
+        "spanish": "dieciocho",
+        "english": "eighteen",
+        "category": "number"
+    },
+    {
+        "spanish": "diecinueve",
+        "english": "nineteen",
+        "category": "number"
+    },
+    {
+        "spanish": "veintiuno",
+        "english": "twenty-one",
+        "category": "number"
     }
 ]
