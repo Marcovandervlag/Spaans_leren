@@ -693,7 +693,128 @@
     "spanish": "diecinueve",
     "english": "nineteen",
     "category": "numbers"
-  }
+  },
+  {
+    "spanish": "veintiuno",
+    "english": "twenty-one",
+    "category": "numbers"
+    },
+    {
+    "spanish": "veintidós",
+    "english": "twenty-two",
+    "category": "numbers"
+    },
+    {
+    "spanish": "veintitrés",
+    "english": "twenty-three",
+    "category": "numbers"
+    },
+    {
+    "spanish": "veinticuatro",
+    "english": "twenty-four",
+    "category": "numbers"
+    },
+    {
+    "spanish": "veinticinco",
+    "english": "twenty-five",
+    "category": "numbers"
+    },
+    {
+    "spanish": "veintiséis",
+    "english": "twenty-six",
+    "category": "numbers"
+    },
+    {
+    "spanish": "veintisiete",
+    "english": "twenty-seven",
+    "category": "numbers"
+    },
+    {
+    "spanish": "veintiocho",
+    "english": "twenty-eight",
+    "category": "numbers"
+    },
+    {
+    "spanish": "veintinueve",
+    "english": "twenty-nine",
+    "category": "numbers"
+    },
+    {
+    "spanish": "treinta",
+    "english": "thirty",
+    "category": "numbers"
+    },
+    {
+    "spanish": "treinta y uno",
+    "english": "thirty-one",
+    "category": "numbers"
+    },
+    {
+    "spanish": "treinta y dos",
+    "english": "thirty-two",
+    "category": "numbers"
+    },
+    {
+    "spanish": "treinta y tres",
+    "english": "thirty-three",
+    "category": "numbers"
+    },
+    {
+    "spanish": "treinta y cuatro",
+    "english": "thirty-four",
+    "category": "numbers"
+    },
+    {
+    "spanish": "treinta y cinco",
+    "english": "thirty-five",
+    "category": "numbers"
+    },
+    {
+    "spanish": "treinta y seis",
+    "english": "thirty-six",
+    "category": "numbers"
+    },
+    {
+    "spanish": "treinta y siete",
+    "english": "thirty-seven",
+    "category": "numbers"
+    },
+    {
+    "spanish": "treinta y ocho",
+    "english": "thirty-eight",
+    "category": "numbers"
+    },
+    {
+    "spanish": "treinta y nueve",
+    "english": "thirty-nine",
+    "category": "numbers"
+    },
+    {
+    "spanish": "cuarenta",
+    "english": "forty",
+    "category": "numbers"
+    },
+    {
+    "spanish": "cuarenta y uno",
+    "english": "forty-one",
+    "category": "numbers"
+    },
+    {
+    "spanish": "cuarenta y dos",
+    "english": "forty-two",
+    "category": "numbers"
+    },
+    {
+    "spanish": "cuarenta y tres",
+    "english": "forty-three",
+    "category": "numbers"
+    },
+    {
+    "spanish": "cuarenta y cuatro",
+    "english": "forty-four",
+    "category": "numbers"
+    },
+    
 ]
 
     
