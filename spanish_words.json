@@ -350,106 +350,106 @@
         "category": "Objects"
     },
     {
-    "english": "car",
-    "spanish": "coche",
-    "category": "Objects"
+        "english": "car",
+        "spanish": "coche",
+        "category": "Objects"
     },
     {
-    "english": "chair",
-    "spanish": "silla",
-    "category": "Objects"
+        "english": "chair",
+        "spanish": "silla",
+        "category": "Objects"
     },
     {
-    "english": "computer",
-    "spanish": "ordenador",
-    "category": "Objects"
+        "english": "computer",
+        "spanish": "ordenador",
+        "category": "Objects"
     },
     {
-    "english": "house",
-    "spanish": "casa",
-    "category": "Objects"
+        "english": "house",
+        "spanish": "casa",
+        "category": "Objects"
     },
     {
-    "english": "key",
-    "spanish": "llave",
-    "category": "Objects"
+        "english": "key",
+        "spanish": "llave",
+        "category": "Objects"
     },
     {
-    "english": "phone",
-    "spanish": "teléfono",
-    "category": "Objects"
+        "english": "phone",
+        "spanish": "teléfono",
+        "category": "Objects"
     },
     {
-    "english": "shoes",
-    "spanish": "zapatos",
-    "category": "Objects"
+        "english": "shoes",
+        "spanish": "zapatos",
+        "category": "Objects"
     },
     {
-    "english": "table",
-    "spanish": "mesa",
-    "category": "Objects"
+        "english": "table",
+        "spanish": "mesa",
+        "category": "Objects"
     },
     {
-    "english": "watch",
-    "spanish": "reloj",
-    "category": "Objects"
+        "english": "watch",
+        "spanish": "reloj",
+        "category": "Objects"
     },
     {
-    "english": "ball",
-    "spanish": "balón",
-    "category": "Korfball"
+        "english": "ball",
+        "spanish": "balón",
+        "category": "Korfball"
     },
     {
-    "english": "referee",
-    "spanish": "arbitro",
-    "category": "Korfball"
+        "english": "referee",
+        "spanish": "arbitro",
+        "category": "Korfball"
     },
     {
-    "english": "to throw",
-    "spanish": "lanzar",
-    "category": "Korfball"
+        "english": "to throw",
+        "spanish": "lanzar",
+        "category": "Korfball"
     },
     {
-    "english": "to score a goal",
-    "spanish": "marcar un gol",
-    "category": "Korfball"
+        "english": "to score a goal",
+        "spanish": "marcar un gol",
+        "category": "Korfball"
     },
     {
-    "english": "attacker",
-    "spanish": "atacante",
-    "category": "Korfball"
+        "english": "attacker",
+        "spanish": "atacante",
+        "category": "Korfball"
     },
     {
-    "english": "defender",
-    "spanish": "defensor",
-    "category": "Korfball"
+        "english": "defender",
+        "spanish": "defensor",
+        "category": "Korfball"
     },
     {
-    "english": "to pass",
-    "spanish": "pasar",
-    "category": "Korfball"
+        "english": "to pass",
+        "spanish": "pasar",
+        "category": "Korfball"
     },
     {
-    "english": "pivot",
-    "spanish": "pivot",
-    "category": "Korfball"
+        "english": "pivot",
+        "spanish": "pivot",
+        "category": "Korfball"
     },
     {
-    "english": "position",
-    "spanish": "posición",
-    "category": "Korfball"
+        "english": "position",
+        "spanish": "posición",
+        "category": "Korfball"
     },
     {
-    "english": "shot at the basket",
-    "spanish": "tiro al aro",
-    "category": "Korfball"
+        "english": "shot at the basket",
+        "spanish": "tiro al aro",
+        "category": "Korfball"
     },
     {
-    "english": "January",
-    "spanish": "enero",
-    "category": "Months"
+        "english": "January",
+        "spanish": "enero",
+        "category": "Months"
     },
-        {
+    {
         "english": "February",
         "spanish": "febrero",
         "category": "Months"
@@ -580,241 +580,238 @@
         "category": "vervoeging"
     },
     {
-    "english": "ZIJ",
-    "spanish": "ellos",
-    "category": "vervoeging"
+        "english": "ZIJ",
+        "spanish": "ellos",
+        "category": "vervoeging"
     },
     {
-    "english": "ZIJmeisje",
-    "spanish": "ellas",
-    "category": "vervoeging"
+        "english": "ZIJmeisje",
+        "spanish": "ellas",
+        "category": "vervoeging"
     },
     {
-    "english": "hun",
-    "spanish": "ustedes",
-    "category": "vervoeging"
+        "english": "hun",
+        "spanish": "ustedes",
+        "category": "vervoeging"
     },
     {
-    "spanish": "cero",
-    "english": "zero",
-    "category": "numbers"
-  },
-  {
-    "spanish": "uno",
-    "english": "one",
-    "category": "numbers"
-  },
-  {
-    "spanish": "dos",
-    "english": "two",
-    "category": "numbers"
-  },
-  {
-    "spanish": "tres",
-    "english": "three",
-    "category": "numbers"
-  },
-  {
-    "spanish": "cuatro",
-    "english": "four",
-    "category": "numbers"
-  },
-  {
-    "spanish": "cinco",
-    "english": "five",
-    "category": "numbers"
-  },
-  {
-    "spanish": "seis",
-    "english": "six",
-    "category": "numbers"
-  },
-  {
-    "spanish": "siete",
-    "english": "seven",
-    "category": "numbers"
-  },
-  {
-    "spanish": "ocho",
-    "english": "eight",
-    "category": "numbers"
-  },
-  {
-    "spanish": "nueve",
-    "english": "nine",
-    "category": "numbers"
-  },
-  {
-    "spanish": "diez",
-    "english": "ten",
-    "category": "numbers"
-  },
-  {
-    "spanish": "once",
-    "english": "eleven",
-    "category": "numbers"
-  },
-  {
-    "spanish": "doce",
-    "english": "twelve",
-    "category": "numbers"
-  },
-  {
-    "spanish": "trece",
-    "english": "thirteen",
-    "category": "numbers"
-  },
-  {
-    "spanish": "catorce",
-    "english": "fourteen",
-    "category": "numbers"
-  },
-  {
-    "spanish": "quince",
-    "english": "fifteen",
-    "category": "numbers"
-  },
-  {
-    "spanish": "dieciséis",
-    "english": "sixteen",
-    "category": "numbers"
-  },
-  {
-    "spanish": "diecisiete",
-    "english": "seventeen",
-    "category": "numbers"
-  },
-  {
-    "spanish": "dieciocho",
-    "english": "eighteen",
-    "category": "numbers"
-  },
-  {
-    "spanish": "diecinueve",
-    "english": "nineteen",
-    "category": "numbers"
-  },
-  {
-    "spanish": "veintiuno",
-    "english": "twenty-one",
-    "category": "numbers"
+        "spanish": "cero",
+        "english": "zero",
+        "category": "numbers"
     },
     {
-    "spanish": "veintidós",
-    "english": "twenty-two",
-    "category": "numbers"
+        "spanish": "uno",
+        "english": "one",
+        "category": "numbers"
     },
     {
-    "spanish": "veintitrés",
-    "english": "twenty-three",
-    "category": "numbers"
+        "spanish": "dos",
+        "english": "two",
+        "category": "numbers"
     },
     {
-    "spanish": "veinticuatro",
-    "english": "twenty-four",
-    "category": "numbers"
+        "spanish": "tres",
+        "english": "three",
+        "category": "numbers"
     },
     {
-    "spanish": "veinticinco",
-    "english": "twenty-five",
-    "category": "numbers"
+        "spanish": "cuatro",
+        "english": "four",
+        "category": "numbers"
     },
     {
-    "spanish": "veintiséis",
-    "english": "twenty-six",
-    "category": "numbers"
+        "spanish": "cinco",
+        "english": "five",
+        "category": "numbers"
     },
     {
-    "spanish": "veintisiete",
-    "english": "twenty-seven",
-    "category": "numbers"
+        "spanish": "seis",
+        "english": "six",
+        "category": "numbers"
     },
     {
-    "spanish": "veintiocho",
-    "english": "twenty-eight",
-    "category": "numbers"
+        "spanish": "siete",
+        "english": "seven",
+        "category": "numbers"
     },
     {
-    "spanish": "veintinueve",
-    "english": "twenty-nine",
-    "category": "numbers"
+        "spanish": "ocho",
+        "english": "eight",
+        "category": "numbers"
     },
     {
-    "spanish": "treinta",
-    "english": "thirty",
-    "category": "numbers"
+        "spanish": "nueve",
+        "english": "nine",
+        "category": "numbers"
     },
     {
-    "spanish": "treinta y uno",
-    "english": "thirty-one",
-    "category": "numbers"
+        "spanish": "diez",
+        "english": "ten",
+        "category": "numbers"
     },
     {
-    "spanish": "treinta y dos",
-    "english": "thirty-two",
-    "category": "numbers"
+        "spanish": "once",
+        "english": "eleven",
+        "category": "numbers"
     },
     {
-    "spanish": "treinta y tres",
-    "english": "thirty-three",
-    "category": "numbers"
+        "spanish": "doce",
+        "english": "twelve",
+        "category": "numbers"
     },
     {
-    "spanish": "treinta y cuatro",
-    "english": "thirty-four",
-    "category": "numbers"
+        "spanish": "trece",
+        "english": "thirteen",
+        "category": "numbers"
     },
     {
-    "spanish": "treinta y cinco",
-    "english": "thirty-five",
-    "category": "numbers"
+        "spanish": "catorce",
+        "english": "fourteen",
+        "category": "numbers"
     },
     {
-    "spanish": "treinta y seis",
-    "english": "thirty-six",
-    "category": "numbers"
+        "spanish": "quince",
+        "english": "fifteen",
+        "category": "numbers"
     },
     {
-    "spanish": "treinta y siete",
-    "english": "thirty-seven",
-    "category": "numbers"
+        "spanish": "dieciséis",
+        "english": "sixteen",
+        "category": "numbers"
     },
     {
-    "spanish": "treinta y ocho",
-    "english": "thirty-eight",
-    "category": "numbers"
+        "spanish": "diecisiete",
+        "english": "seventeen",
+        "category": "numbers"
     },
     {
-    "spanish": "treinta y nueve",
-    "english": "thirty-nine",
-    "category": "numbers"
+        "spanish": "dieciocho",
+        "english": "eighteen",
+        "category": "numbers"
     },
     {
-    "spanish": "cuarenta",
-    "english": "forty",
-    "category": "numbers"
+        "spanish": "diecinueve",
+        "english": "nineteen",
+        "category": "numbers"
     },
     {
-    "spanish": "cuarenta y uno",
-    "english": "forty-one",
-    "category": "numbers"
+        "spanish": "veintiuno",
+        "english": "twenty-one",
+        "category": "numbers"
     },
     {
-    "spanish": "cuarenta y dos",
-    "english": "forty-two",
-    "category": "numbers"
+        "spanish": "veintidós",
+        "english": "twenty-two",
+        "category": "numbers"
     },
     {
-    "spanish": "cuarenta y tres",
-    "english": "forty-three",
-    "category": "numbers"
+        "spanish": "veintitrés",
+        "english": "twenty-three",
+        "category": "numbers"
     },
     {
-    "spanish": "cuarenta y cuatro",
-    "english": "forty-four",
-    "category": "numbers"
+        "spanish": "veinticuatro",
+        "english": "twenty-four",
+        "category": "numbers"
     },
-    
+    {
+        "spanish": "veinticinco",
+        "english": "twenty-five",
+        "category": "numbers"
+    },
+    {
+        "spanish": "veintiséis",
+        "english": "twenty-six",
+        "category": "numbers"
+    },
+    {
+        "spanish": "veintisiete",
+        "english": "twenty-seven",
+        "category": "numbers"
+    },
+    {
+        "spanish": "veintiocho",
+        "english": "twenty-eight",
+        "category": "numbers"
+    },
+    {
+        "spanish": "veintinueve",
+        "english": "twenty-nine",
+        "category": "numbers"
+    },
+    {
+        "spanish": "treinta",
+        "english": "thirty",
+        "category": "numbers"
+    },
+    {
+        "spanish": "treinta y uno",
+        "english": "thirty-one",
+        "category": "numbers"
+    },
+    {
+        "spanish": "treinta y dos",
+        "english": "thirty-two",
+        "category": "numbers"
+    },
+    {
+        "spanish": "treinta y tres",
+        "english": "thirty-three",
+        "category": "numbers"
+    },
+    {
+        "spanish": "treinta y cuatro",
+        "english": "thirty-four",
+        "category": "numbers"
+    },
+    {
+        "spanish": "treinta y cinco",
+        "english": "thirty-five",
+        "category": "numbers"
+    },
+    {
+        "spanish": "treinta y seis",
+        "english": "thirty-six",
+        "category": "numbers"
+    },
+    {
+        "spanish": "treinta y siete",
+        "english": "thirty-seven",
+        "category": "numbers"
+    },
+    {
+        "spanish": "treinta y ocho",
+        "english": "thirty-eight",
+        "category": "numbers"
+    },
+    {
+        "spanish": "treinta y nueve",
+        "english": "thirty-nine",
+        "category": "numbers"
+    },
+    {
+        "spanish": "cuarenta",
+        "english": "forty",
+        "category": "numbers"
+    },
+    {
+        "spanish": "cuarenta y uno",
+        "english": "forty-one",
+        "category": "numbers"
+    },
+    {
+        "spanish": "cuarenta y dos",
+        "english": "forty-two",
+        "category": "numbers"
+    },
+    {
+        "spanish": "cuarenta y tres",
+        "english": "forty-three",
+        "category": "numbers"
+    },
+    {
+        "spanish": "cuarenta y cuatro",
+        "english": "forty-four",
+        "category": "numbers"
+    },
 ]
-
-    
