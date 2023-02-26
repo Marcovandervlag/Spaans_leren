@@ -593,7 +593,107 @@
     "english": "hun",
     "spanish": "ustedes",
     "category": "vervoeging"
-    }
+    },
+    {
+    "spanish": "cero",
+    "english": "zero",
+    "category": "numbers"
+  },
+  {
+    "spanish": "uno",
+    "english": "one",
+    "category": "numbers"
+  },
+  {
+    "spanish": "dos",
+    "english": "two",
+    "category": "numbers"
+  },
+  {
+    "spanish": "tres",
+    "english": "three",
+    "category": "numbers"
+  },
+  {
+    "spanish": "cuatro",
+    "english": "four",
+    "category": "numbers"
+  },
+  {
+    "spanish": "cinco",
+    "english": "five",
+    "category": "numbers"
+  },
+  {
+    "spanish": "seis",
+    "english": "six",
+    "category": "numbers"
+  },
+  {
+    "spanish": "siete",
+    "english": "seven",
+    "category": "numbers"
+  },
+  {
+    "spanish": "ocho",
+    "english": "eight",
+    "category": "numbers"
+  },
+  {
+    "spanish": "nueve",
+    "english": "nine",
+    "category": "numbers"
+  },
+  {
+    "spanish": "diez",
+    "english": "ten",
+    "category": "numbers"
+  },
+  {
+    "spanish": "once",
+    "english": "eleven",
+    "category": "numbers"
+  },
+  {
+    "spanish": "doce",
+    "english": "twelve",
+    "category": "numbers"
+  },
+  {
+    "spanish": "trece",
+    "english": "thirteen",
+    "category": "numbers"
+  },
+  {
+    "spanish": "catorce",
+    "english": "fourteen",
+    "category": "numbers"
+  },
+  {
+    "spanish": "quince",
+    "english": "fifteen",
+    "category": "numbers"
+  },
+  {
+    "spanish": "dieciséis",
+    "english": "sixteen",
+    "category": "numbers"
+  },
+  {
+    "spanish": "diecisiete",
+    "english": "seventeen",
+    "category": "numbers"
+  },
+  {
+    "spanish": "dieciocho",
+    "english": "eighteen",
+    "category": "numbers"
+  },
+  {
+    "spanish": "diecinueve",
+    "english": "nineteen",
+    "category": "numbers"
+  }
 ]
 
     
