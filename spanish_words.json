@@ -1,0 +1,599 @@
+[
+    {
+        "english": "apple",
+        "spanish": "manzana",
+        "category": "Food"
+    },
+    {
+        "english": "banana",
+        "spanish": "plátano",
+        "category": "Food"
+    },
+    {
+        "english": "carrot",
+        "spanish": "zanahoria",
+        "category": "Food"
+    },
+    {
+        "english": "cheese",
+        "spanish": "queso",
+        "category": "Food"
+    },
+    {
+        "english": "chicken",
+        "spanish": "pollo",
+        "category": "Food"
+    },
+    {
+        "english": "coffee",
+        "spanish": "café",
+        "category": "Food"
+    },
+    {
+        "english": "egg",
+        "spanish": "huevo",
+        "category": "Food"
+    },
+    {
+        "english": "fish",
+        "spanish": "pez",
+        "category": "Food"
+    },
+    {
+        "english": "orange",
+        "spanish": "naranja",
+        "category": "Food"
+    },
+    {
+        "english": "rice",
+        "spanish": "arroz",
+        "category": "Food"
+    },
+    {
+        "english": "beer",
+        "spanish": "cerveza",
+        "category": "Drink"
+    },
+    {
+        "english": "coca-cola",
+        "spanish": "coca-cola",
+        "category": "Drink"
+    },
+    {
+        "english": "lemonade",
+        "spanish": "limonada",
+        "category": "Drink"
+    },
+    {
+        "english": "milk",
+        "spanish": "leche",
+        "category": "Drink"
+    },
+    {
+        "english": "orange juice",
+        "spanish": "jugo de naranja",
+        "category": "Drink"
+    },
+    {
+        "english": "red wine",
+        "spanish": "vino tinto",
+        "category": "Drink"
+    },
+    {
+        "english": "soda",
+        "spanish": "gaseosa",
+        "category": "Drink"
+    },
+    {
+        "english": "tea",
+        "spanish": "té",
+        "category": "Drink"
+    },
+    {
+        "english": "water",
+        "spanish": "agua",
+        "category": "Drink"
+    },
+    {
+        "english": "whiskey",
+        "spanish": "whisky",
+        "category": "Drink"
+    },
+    {
+        "english": "book",
+        "spanish": "libro",
+        "category": "Hobbies"
+    },
+    {
+        "english": "camera",
+        "spanish": "cámara",
+        "category": "Hobbies"
+    },
+    {
+        "english": "dancing",
+        "spanish": "baile",
+        "category": "Hobbies"
+    },
+    {
+        "english": "drawing",
+        "spanish": "dibujo",
+        "category": "Hobbies"
+    },
+    {
+        "english": "fishing",
+        "spanish": "pesca",
+        "category": "Hobbies"
+    },
+    {
+        "english": "gardening",
+        "spanish": "jardinería",
+        "category": "Hobbies"
+    },
+    {
+        "english": "knitting",
+        "spanish": "tejer",
+        "category": "hobbies"
+    },
+    {
+        "english": "music",
+        "spanish": "música",
+        "category": "Hobbies"
+    },
+    {
+        "english": "painting",
+        "spanish": "pintura",
+        "category": "Hobbies"
+    },
+    {
+        "english": "photography",
+        "spanish": "fotografía",
+        "category": "Hobbies"
+    },
+    {
+        "english": "good morning",
+        "spanish": "buenos días",
+        "category": "Greetings"
+    },
+    {
+        "english": "good night",
+        "spanish": "buenas noches",
+        "category": "Greetings"
+    },
+    {
+        "english": "hello",
+        "spanish": "hola",
+        "category": "Greetings"
+    },
+    {
+        "english": "how are you?",
+        "spanish": "¿cómo estás?",
+        "category": "Greetings"
+    },
+    {
+        "english": "nice to meet you",
+        "spanish": "encantado de conocerte",
+        "category": "Greetings"
+    },
+    {
+        "english": "please",
+        "spanish": "por favor",
+        "category": "Greetings"
+    },
+    {
+        "english": "thank you",
+        "spanish": "gracias",
+        "category": "Greetings"
+    },
+    {
+        "english": "welcome",
+        "spanish": "bienvenido",
+        "category": "Greetings"
+    },
+    {
+        "english": "what's up?",
+        "spanish": "¿qué tal?",
+        "category": "Greetings"
+    },
+    {
+        "english": "goodbye",
+        "spanish": "adiós",
+        "category": "Greetings"
+    },
+    {
+        "english": "beautiful",
+        "spanish": "hermoso",
+        "category": "Looks"
+    },
+    {
+        "english": "fat",
+        "spanish": "gordo",
+        "category": "Looks"
+    },
+    {
+        "english": "handsome",
+        "spanish": "guapo",
+        "category": "Looks"
+    },
+    {
+        "english": "skinny",
+        "spanish": "flaco",
+        "category": "Looks"
+    },
+    {
+        "english": "ugly",
+        "spanish": "feo",
+        "category": "Looks"
+    },
+    {
+        "english": "tall",
+        "spanish": "alto",
+        "category": "Looks"
+    },
+    {
+        "english": "short",
+        "spanish": "bajo",
+        "category": "Looks"
+    },
+    {
+        "english": "old",
+        "spanish": "viejo",
+        "category": "Looks"
+    },
+    {
+        "english": "young",
+        "spanish": "joven",
+        "category": "Looks"
+    },
+    {
+        "english": "pretty",
+        "spanish": "bonito",
+        "category": "Looks"
+    },
+    {
+        "english": "black",
+        "spanish": "negro",
+        "category": "Colors"
+    },
+    {
+        "english": "blue",
+        "spanish": "azul",
+        "category": "Colors"
+    },
+    {
+        "english": "brown",
+        "spanish": "marrón",
+        "category": "Colors"
+    },
+    {
+        "english": "green",
+        "spanish": "verde",
+        "category": "Colors"
+    },
+    {
+        "english": "orange",
+        "spanish": "naranja",
+        "category": "Colors"
+    },
+    {
+        "english": "pink",
+        "spanish": "rosa",
+        "category": "Colors"
+    },
+    {
+        "english": "purple",
+        "spanish": "morado",
+        "category": "Colors"
+    },
+    {
+        "english": "red",
+        "spanish": "rojo",
+        "category": "Colors"
+    },
+    {
+        "english": "white",
+        "spanish": "blanco",
+        "category": "Colors"
+    },
+    {
+        "english": "yellow",
+        "spanish": "amarillo",
+        "category": "Colors"
+    },
+    {
+        "english": "cloudy",
+        "spanish": "nublado",
+        "category": "Weather"
+    },
+    {
+        "english": "cold",
+        "spanish": "frío",
+        "category": "Weather"
+    },
+    {
+        "english": "foggy",
+        "spanish": "nebuloso",
+        "category": "Weather"
+    },
+    {
+        "english": "hot",
+        "spanish": "caluroso",
+        "category": "Weather"
+    },
+    {
+        "english": "rainy",
+        "spanish": "lluvioso",
+        "category": "Weather"
+    },
+    {
+        "english": "snowy",
+        "spanish": "nevado",
+        "category": "Weather"
+    },
+    {
+        "english": "stormy",
+        "spanish": "tormentoso",
+        "category": "Weather"
+    },
+    {
+        "english": "sunny",
+        "spanish": "soleado",
+        "category": "Weather"
+    },
+    {
+        "english": "windy",
+        "spanish": "ventoso",
+        "category": "Weather"
+    },
+    {
+        "english": "umbrella",
+        "spanish": "paraguas",
+        "category": "Objects"
+    },
+    {
+    "english": "car",
+    "spanish": "coche",
+    "category": "Objects"
+    },
+    {
+    "english": "chair",
+    "spanish": "silla",
+    "category": "Objects"
+    },
+    {
+    "english": "computer",
+    "spanish": "ordenador",
+    "category": "Objects"
+    },
+    {
+    "english": "house",
+    "spanish": "casa",
+    "category": "Objects"
+    },
+    {
+    "english": "key",
+    "spanish": "llave",
+    "category": "Objects"
+    },
+    {
+    "english": "phone",
+    "spanish": "teléfono",
+    "category": "Objects"
+    },
+    {
+    "english": "shoes",
+    "spanish": "zapatos",
+    "category": "Objects"
+    },
+    {
+    "english": "table",
+    "spanish": "mesa",
+    "category": "Objects"
+    },
+    {
+    "english": "watch",
+    "spanish": "reloj",
+    "category": "Objects"
+    },
+    {
+    "english": "ball",
+    "spanish": "balón",
+    "category": "Korfball"
+    },
+    {
+    "english": "referee",
+    "spanish": "arbitro",
+    "category": "Korfball"
+    },
+    {
+    "english": "to throw",
+    "spanish": "lanzar",
+    "category": "Korfball"
+    },
+    {
+    "english": "to score a goal",
+    "spanish": "marcar un gol",
+    "category": "Korfball"
+    },
+    {
+    "english": "attacker",
+    "spanish": "atacante",
+    "category": "Korfball"
+    },
+    {
+    "english": "defender",
+    "spanish": "defensor",
+    "category": "Korfball"
+    },
+    {
+    "english": "to pass",
+    "spanish": "pasar",
+    "category": "Korfball"
+    },
+    {
+    "english": "pivot",
+    "spanish": "pivot",
+    "category": "Korfball"
+    },
+    {
+    "english": "position",
+    "spanish": "posición",
+    "category": "Korfball"
+    },
+    {
+    "english": "shot at the basket",
+    "spanish": "tiro al aro",
+    "category": "Korfball"
+    },
+    {
+    "english": "January",
+    "spanish": "enero",
+    "category": "Months"
+    },
+        {
+        "english": "February",
+        "spanish": "febrero",
+        "category": "Months"
+    },
+    {
+        "english": "March",
+        "spanish": "marzo",
+        "category": "Months"
+    },
+    {
+        "english": "April",
+        "spanish": "abril",
+        "category": "Months"
+    },
+    {
+        "english": "May",
+        "spanish": "mayo",
+        "category": "Months"
+    },
+    {
+        "english": "June",
+        "spanish": "junio",
+        "category": "Months"
+    },
+    {
+        "english": "July",
+        "spanish": "julio",
+        "category": "Months"
+    },
+    {
+        "english": "August",
+        "spanish": "agosto",
+        "category": "Months"
+    },
+    {
+        "english": "September",
+        "spanish": "septiembre",
+        "category": "Months"
+    },
+    {
+        "english": "October",
+        "spanish": "octubre",
+        "category": "Months"
+    },
+    {
+        "english": "November",
+        "spanish": "noviembre",
+        "category": "Months"
+    },
+    {
+        "english": "December",
+        "spanish": "diciembre",
+        "category": "Months"
+    },
+    {
+        "english": "Monday",
+        "spanish": "lunes",
+        "category": "Days"
+    },
+    {
+        "english": "Tuesday",
+        "spanish": "martes",
+        "category": "Days"
+    },
+    {
+        "english": "Wednesday",
+        "spanish": "miércoles",
+        "category": "Days"
+    },
+    {
+        "english": "Thursday",
+        "spanish": "jueves",
+        "category": "Days"
+    },
+    {
+        "english": "Friday",
+        "spanish": "viernes",
+        "category": "Days"
+    },
+    {
+        "english": "Saturday",
+        "spanish": "sábado",
+        "category": "Days"
+    },
+    {
+        "english": "Sunday",
+        "spanish": "domingo",
+        "category": "Days"
+    },
+    {
+        "english": "Ik",
+        "spanish": "yo",
+        "category": "vervoeging"
+    },
+    {
+        "english": "jij",
+        "spanish": "tú",
+        "category": "vervoeging"
+    },
+    {
+        "english": "hij",
+        "spanish": "él",
+        "category": "vervoeging"
+    },
+    {
+        "english": "zij",
+        "spanish": "ella",
+        "category": "vervoeging"
+    },
+    {
+        "english": "ze",
+        "spanish": "usted",
+        "category": "vervoeging"
+    },
+    {
+        "english": "wij",
+        "spanish": "nosotros",
+        "category": "vervoeging"
+    },
+    {
+        "english": "wijMEISJE",
+        "spanish": "nosotras",
+        "category": "vervoeging"
+    },
+    {
+        "english": "jullie",
+        "spanish": "vosotros",
+        "category": "vervoeging"
+    },
+    {
+    "english": "ZIJ",
+    "spanish": "ellos",
+    "category": "vervoeging"
+    },
+    {
+    "english": "ZIJmeisje",
+    "spanish": "ellas",
+    "category": "vervoeging"
+    },
+    {
+    "english": "hun",
+    "spanish": "ustedes",
+    "category": "vervoeging"
+    }
+]
+
+    
