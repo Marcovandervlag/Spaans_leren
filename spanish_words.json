@@ -1097,106 +1097,106 @@
     {
         "spanish": "cero",
         "english": "zero",
-        "category": "number"
+        "category": "onetoten"
     },
     {
         "spanish": "uno",
         "english": "one",
-        "category": "number"
+        "category": "onetoten"
     },
     {
         "spanish": "dos",
         "english": "two",
-        "category": "number"
+        "category": "onetoten"
     },
     {
         "spanish": "tres",
         "english": "three",
-        "category": "number"
+        "category": "onetoten"
     },
     {
         "spanish": "cuatro",
         "english": "four",
-        "category": "number"
+        "category": "onetoten"
     },
     {
         "spanish": "cinco",
         "english": "five",
-        "category": "number"
+        "category": "onetoten"
     },
     {
         "spanish": "seis",
         "english": "six",
-        "category": "number"
+        "category": "onetoten"
     },
     {
         "spanish": "siete",
         "english": "seven",
-        "category": "number"
+        "category": "onetoten"
     },
     {
         "spanish": "ocho",
         "english": "eight",
-        "category": "number"
+        "category": "onetoten"
     },
     {
         "spanish": "nueve",
         "english": "nine",
-        "category": "number"
+        "category": "onetoten"
     },
     {
         "spanish": "diez",
         "english": "ten",
-        "category": "number"
+        "category": "onetoten"
     },
     {
         "spanish": "once",
         "english": "eleven",
-        "category": "number"
+        "category": "onetoten"
     },
     {
         "spanish": "doce",
         "english": "twelve",
-        "category": "number"
+        "category": "onetoten"
     },
     {
         "spanish": "trece",
         "english": "thirteen",
-        "category": "number"
+        "category": "onetoten"
     },
     {
         "spanish": "catorce",
         "english": "fourteen",
-        "category": "number"
+        "category": "onetoten"
     },
     {
         "spanish": "quince",
         "english": "fifteen",
-        "category": "number"
+        "category": "onetoten"
     },
     {
         "spanish": "dieciséis",
         "english": "sixteen",
-        "category": "number"
+        "category": "onetoten"
     },
     {
         "spanish": "diecisiete",
         "english": "seventeen",
-        "category": "number"
+        "category": "onetoten"
     },
     {
         "spanish": "dieciocho",
         "english": "eighteen",
-        "category": "number"
+        "category": "onetoten"
     },
     {
         "spanish": "diecinueve",
         "english": "nineteen",
-        "category": "number"
+        "category": "onetoten"
     },
     {
         "spanish": "veintiuno",
         "english": "twenty-one",
-        "category": "number"
+        "category": "onetoten"
     }
 ]
